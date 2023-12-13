@@ -1,4 +1,4 @@
-# FirstTest2023
+# MyDevOpsJourney
 Just a quick revision on how to create a repository
 
 List of Things I have Learned.
