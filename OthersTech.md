@@ -17,3 +17,6 @@ load balancer in aws and different types of load balancers
 - what are target hosts
 - what is nslookup used for
 - difference between http and https
+- paramter store vs secret manager aws
+- nginx vs tomcat
+- 
