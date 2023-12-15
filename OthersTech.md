@@ -20,3 +20,5 @@ load balancer in aws and different types of load balancers
 - paramter store vs secret manager aws
 - nginx vs tomcat
 - Deploy a war file in tomcat and try to access using http url on the EC2.
+- Ansible and helm pacakage manager
+- python atleast boto aws simple programs
