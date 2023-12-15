@@ -19,4 +19,4 @@ load balancer in aws and different types of load balancers
 - difference between http and https
 - paramter store vs secret manager aws
 - nginx vs tomcat
-- 
+- Deploy a war file in tomcat and try to access using http url on the EC2.
