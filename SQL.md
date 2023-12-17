@@ -1,4 +1,4 @@
-- Basic SQL
+- Basic SQL(Read RDMS)
 - DB create, delete, alter
 - create table , delete, alter
 - create columns, alter, delete
