@@ -26,3 +26,6 @@ load balancer in aws and different types of load balancers
 - what is terraform and its use
 - what is bash vs Shell. Simple bash/shell script example
 - create Azure account and build AKS cluster (Kubernetes)
+- Make a list if port number. Fir example: SSH uses 22
+- What is DR ?
+- What are Snapshots for database and virtual machines
