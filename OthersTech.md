@@ -25,3 +25,4 @@ load balancer in aws and different types of load balancers
 - what is SaaS, PaaS, IaaC
 - what is terraform and its use
 - what is bash vs Shell. Simple bash/shell script example
+- create Azure account and build AKS cluster (Kubernetes)
