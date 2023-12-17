@@ -22,3 +22,6 @@ load balancer in aws and different types of load balancers
 - Deploy a war file in tomcat and try to access using http url on the EC2.
 - Ansible and helm pacakage manager
 - python atleast boto aws simple programs
+- what is SaaS, PaaS, IaaC
+- what is terraform and its use
+- what is bash vs Shell. Simple bash/shell script example
