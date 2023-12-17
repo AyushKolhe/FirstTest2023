@@ -1,0 +1,9 @@
+- Basic SQL
+- DB create, delete, alter
+- create table , delete, alter
+- create columns, alter, delete
+- primary keys, foreign keys
+- joins
+- aggregate functions
+- indexes
+- what is schema
