@@ -21,7 +21,22 @@ Network administrators use nslookup to troubleshoot server connections or for se
 DNS, or nslookup, also helps deter cache poisoning, in which attackers distribute data to caching resolvers that pose as authoritative origin serve
 
 
-- difference between http and https
+- difference between http and https :Hypertext transfer protocol (HTTP) is a protocol or set of communication rules for client-server communication. When you visit a website, your browser sends a HTTP request to the web server, which responds with an HTTP response. The web server and your browser exchange data as plaintext. In short, HTTP protocol is the underlying technology that powers network communication. As the name suggests, hypertext transfer protocol secure (HTTPS) is a more secure version or an extension of HTTP. In HTTPS, the browser and server establish a secure, encrypted connection before transferring data.
+
+ HTTP transmits unencrypted data, which means that information sent from a browser can be intercepted and read by third parties. This wasn’t an ideal process, so it was extended into HTTPS to add another layer of security to communication. HTTPS combines HTTP requests and responses with SSL and TLS technology.
+
+HTTPS websites must obtain an SSL/TLS certificate from an independent certificate authority (CA). These websites share the certificate with the browser before exchanging data to establish trust. The SSL certificate also contains cryptographic information, so the server and web browsers can exchange encrypted or scrambled data. The process works like this:
+
+You visit an HTTPS website by typing the https:// URL format in your browser’s address bar.
+The browser attempts to verify the site’s authenticity by requesting the server’s SSL certificate.
+The server sends the SSL certificate that contains a public key as a reply.
+The website’s SSL certificate proves the server identity. Once the browser is satisfied, it uses the public key to encrypt and send a message that contains a secret session key.
+The web server uses its private key to decrypt the message and retrieve the session key. It then encrypts the session key and sends an acknowledgment message to the browser.
+Now, both browser and web server switch to using the same session key to exchange messages safely.
+
+
+
+- 
 - paramter store vs secret manager aws
 - nginx vs tomcat
 - Deploy a war file in tomcat and try to access using http url on the EC2.
