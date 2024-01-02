@@ -15,7 +15,12 @@ TO DO
 - what is Dns, cname, A record
 load balancer in aws and different types of load balancers
 - what are target hosts
-- what is nslookup used for
+- what is nslookup used for: Nslookup is the name of a program that lets users enter a host name and find out the corresponding IP address or domain name system (DNS) record. Users can also enter a command in nslookup to do a reverse DNS lookup and find the host name for a specified IP address.
+Network administrators use nslookup to troubleshoot server connections or for security reasons. For example, network pros might use nslookup to guard against phishing attacks, in which attackers alter domain names. An attacker might substitute the numeral 1 for a lowercase l to make an unfriendly site look friendly and familiar, e.g., joes1owerprices.com vs. joeslowerprices.com. Network admins use nslookup to troubleshoot such attacks.
+
+DNS, or nslookup, also helps deter cache poisoning, in which attackers distribute data to caching resolvers that pose as authoritative origin serve
+
+
 - difference between http and https
 - paramter store vs secret manager aws
 - nginx vs tomcat
