@@ -9,3 +9,5 @@ https://www.linkedin.com/jobs/view/3769275804/?refId=1c58c17b-cb6e-48ac-bc1e-338
 https://www.mifinity.com/en/careers/
 
 https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3794821098&distance=25&f_E=1%2C2%2C3%2C4&f_TPR=a1704107575-&geoId=104738515&keywords=kubernetes&origin=JOB_ALERT_IN_APP_NOTIFICATION&savedSearchId=1739024547&sortBy=R
+
+https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3796869308&f_E=1%2C2%2C3%2C4&f_TPR=a1704107575-&geoId=104738515&keywords=devops%20%20radley%20james&location=Ireland&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&sortBy=R
