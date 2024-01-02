@@ -108,7 +108,9 @@ Prefer storing secrets in Secrets Manager or Parameter Store instead of storing 
 
 
 
-- nginx vs tomcat
+- nginx vs tomcat : Tomcat is an application server and NGINX is a web server.
+
+
 - Deploy a war file in tomcat and try to access using http url on the EC2.
 - Ansible and helm pacakage manager
 - python atleast boto aws simple programs
